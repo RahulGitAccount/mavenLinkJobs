@@ -1,0 +1,6 @@
+com\kafka\KafkaCosumerSchedular.class
+com\kafka\ApplicationConfigurationClass.class
+com\kafka\RestKafkaProducer.class
+com\kafka\RestKafkaConsumer.class
+com\kafka\Company.class
+com\kafka\MainRestController.class
