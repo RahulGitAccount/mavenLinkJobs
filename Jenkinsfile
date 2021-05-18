@@ -9,7 +9,7 @@ pipeline {
 				 
 			}
 		
-		stage("Clean Stage") {
+		stage("Package Stage") {
 			steps {
 				 
 					bat "mvn package"
